@@ -16,7 +16,7 @@ Project ini dibuat untuk menganalisis ulasan aplikasi inDrive dan mengetahui has
 
 ## Hasil
 - Hasil confusion matrik
-  ![image](https://github.com/user-attachments/assets/f66b378a-5939-423a-b8ea-be06de2bae92)
+-  ![image](https://github.com/user-attachments/assets/f66b378a-5939-423a-b8ea-be06de2bae92)
 - Hasil sentimen positif
 - Hasil sentimen negatif
   ![image](https://github.com/user-attachments/assets/71cd1d7f-3f83-4a60-82fb-123c82953ea3)
