@@ -15,8 +15,11 @@ Project ini dibuat untuk menganalisis ulasan aplikasi inDrive dan mengetahui has
 6. Interpretasi hasil
 
 ## Hasil
-- Akurasi model: 91%
+- Akurasi model training: 96%
+- Akurasi model testing: 91%
 ![image](https://github.com/user-attachments/assets/f66b378a-5939-423a-b8ea-be06de2bae92)
+![image](https://github.com/user-attachments/assets/71cd1d7f-3f83-4a60-82fb-123c82953ea3)
+![image](https://github.com/user-attachments/assets/e044bcfa-93e6-498d-9784-b4eba3737ac0)
 
 ## Catatan
 Proyek ini merupakan bagian dari tugas akhir saya di Universitas Jember.
