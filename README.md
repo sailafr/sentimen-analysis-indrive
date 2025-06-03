@@ -3,7 +3,7 @@ Project ini dibuat untuk menganalisis ulasan aplikasi inDrive dan mengetahui has
 
 ## Teknologi yang Digunakan
 - Python (pandas, matplotlib, nltk, dll)
-- Jupyter Notebook/google colan
+- Jupyter Notebook
 - Microsoft Excel 
 
 ## Langkah Utama
