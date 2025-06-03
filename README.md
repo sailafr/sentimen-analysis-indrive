@@ -1,4 +1,4 @@
-# sentimen-analysis-indrive-SVM
+# Analisis Sentimen Ulasan Aplikasi InDrive (SVM)
 Project ini dibuat untuk menganalisis ulasan aplikasi inDrive dan mengetahui hasil akurasi menggunakan algoritma SVM.
 
 ## Teknologi yang Digunakan
