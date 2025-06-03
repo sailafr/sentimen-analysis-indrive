@@ -18,9 +18,9 @@ Project ini dibuat untuk menganalisis ulasan aplikasi inDrive dan mengetahui has
 - Hasil confusion matrik
 -  ![image](https://github.com/user-attachments/assets/f66b378a-5939-423a-b8ea-be06de2bae92)
 - Hasil sentimen positif
+- ![image](https://github.com/user-attachments/assets/de66a67c-e2e2-4695-9a40-9e42ab16b459)
 - Hasil sentimen negatif
-  ![image](https://github.com/user-attachments/assets/71cd1d7f-3f83-4a60-82fb-123c82953ea3)
-  ![image](https://github.com/user-attachments/assets/e044bcfa-93e6-498d-9784-b4eba3737ac0)
+  ![image](https://github.com/user-attachments/assets/21916156-f43e-4c13-9dc2-1c2f6e830769)
 - Akurasi model training: 96%
 - Akurasi model testing: 91%
   
